@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis Dashboard
+# E-Commerce Sales Analysis
 
 ## Overview
 
